@@ -7,11 +7,11 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ECEOpenSDK'
-  s.version          = '1.0.2'
+  s.name             = 'ECEOpenSDK-iOS'
+  s.version          = '1.0.0'
   s.platform         = :ios
   s.ios.deployment_target = '9.0'
-  s.summary          = 'ECEOpenSDK'
+  s.summary          = 'ECEOpenSDK-iOS'
   s.homepage         = 'https://github.com/zhihanltd/ECEOpenSDK-iOS.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = 'Hangzhou ZhiHan'

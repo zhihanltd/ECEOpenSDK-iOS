@@ -1,5 +1,5 @@
 # ECEOpenSDK
-量表评估SDK
+iOS 量表评估SDK
 
 ## 导入
 ### 使用Cocoapods导入
@@ -99,4 +99,3 @@ ece_alert_close 答题卡窗口关闭按钮
 ece_answer_sheet 答题卡按钮图标  
 ece_nav_back 导航条关闭按钮   
 ```
-
